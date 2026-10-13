@@ -5,3 +5,5 @@ _autosave-*
 fp-info-cache
 ~*.lck
 *.kicad_prl
+desktop.ini 
+Thumbs.db 
