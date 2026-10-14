@@ -2404,7 +2404,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 48.26) (xy 170.18 48.26)
+			(xy 144.78 48.26) (xy 170.18 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2414,7 +2414,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 55.88) (xy 170.18 55.88)
+			(xy 144.78 55.88) (xy 170.18 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3878,8 +3878,8 @@
 			"RK5CYII="
 		)
 	)
-	(label "uC_I2C1_SDA"
-		(at 156.21 48.26 0)
+	(label "5V_uC_I2C1_SDA"
+		(at 149.86 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3908,8 +3908,8 @@
 		)
 		(uuid "6785ccf9-40b0-42a1-8d86-f759b05e8927")
 	)
-	(label "uC_I2C1_SCL"
-		(at 154.94 55.88 0)
+	(label "5V_uC_I2C1_SCL"
+		(at 149.86 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3958,9 +3958,9 @@
 		)
 		(uuid "b196bc20-fdc2-4cdf-ab1c-76fcc9d1501b")
 	)
-	(hierarchical_label "uC_I2C1_SDA"
+	(hierarchical_label "5V_uC_I2C1_SDA"
 		(shape input)
-		(at 153.67 48.26 180)
+		(at 144.78 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3980,9 +3980,9 @@
 		)
 		(uuid "60d22e73-21dc-4591-905d-177d04690f13")
 	)
-	(hierarchical_label "uC_I2C1_SCL"
+	(hierarchical_label "5V_uC_I2C1_SCL"
 		(shape input)
-		(at 153.67 55.88 180)
+		(at 144.78 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
