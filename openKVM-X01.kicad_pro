@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "X01"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -485,7 +485,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "OpenKVM_PowerSupplies"
+    ]
   },
   "meta": {
     "filename": "openKVM-X01.kicad_pro",
@@ -656,26 +658,43 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "openKVM-X01.kicad_sch",
-        "name": "Root",
-        "uuid": "e7c0374d-64bc-4089-b9c4-51fd59a7a9a1"
+        "filename": "blockdiagram.kicad_sch",
+        "name": "BlockDiagram",
+        "uuid": "358a9017-2375-46a8-920b-0f1b4e5a5f32"
+      },
+      {
+        "filename": "projectarchitecture.kicad_sch",
+        "name": "ProjectArchitecture",
+        "uuid": "2ca004d4-d0d6-4c87-a313-b0e1d2005e00"
       }
     ],
-    "used_designators": "R1-18,J1-2,#PWR1,#PWR3-46,RST1,C1-21,SW1-3,TP4,Y1,U1-9,D1-3",
+    "used_designators": "R1-21,J1-2,J4,#PWR1,#PWR3-52,RST1,C1-24,SW1-3,TP4,Y1,U1-9,D1-6,L1-3",
     "variants": []
   },
   "sheets": [
     [
-      "e7c0374d-64bc-4089-b9c4-51fd59a7a9a1",
-      "Root"
+      "358a9017-2375-46a8-920b-0f1b4e5a5f32",
+      "BlockDiagram"
+    ],
+    [
+      "2ca004d4-d0d6-4c87-a313-b0e1d2005e00",
+      "ProjectArchitecture"
+    ],
+    [
+      "93c519a5-1468-4f17-938e-a4b41050cbf5",
+      "HDMI"
+    ],
+    [
+      "cfd16a7f-110b-4ed7-bcc6-fad01c2502ae",
+      "HDMI_MUX"
     ],
     [
       "b7508bf7-0e2e-492c-8bf4-48d4e3c671b8",
       "EDID_EMULATION"
     ],
     [
-      "cfd16a7f-110b-4ed7-bcc6-fad01c2502ae",
-      "HDMI_MUX"
+      "edae9be3-7290-4b1a-8d5d-4fe60750bce9",
+      "POWER"
     ]
   ],
   "text_variables": {},

@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "EasyEDA") (type "KiCad") (uri "${KIPRJMOD}/EasyEDA.kicad_sym") (options "") (descr ""))
+	(lib (name "OpenKVM_PowerSupplies") (type "KiCad") (uri "${KIPRJMOD}/Libraries/OpenKVM_PowerSupplies.kicad_sym") (options "") (descr ""))
 )

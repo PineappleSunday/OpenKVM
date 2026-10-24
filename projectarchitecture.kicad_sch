@@ -1,0 +1,111 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7df6e67d-5e95-49b5-86c3-a98322df4bb1")
+	(paper "B")
+	(title_block
+		(date "2026-10-24")
+		(rev "A")
+	)
+	(lib_symbols)
+	(sheet
+		(at 165.1 50.8)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 128 0 0 1)
+		)
+		(fill
+			(color 128 255 128 1)
+		)
+		(uuid "93c519a5-1468-4f17-938e-a4b41050cbf5")
+		(property "Sheetname" "HDMI"
+			(at 165.1 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "openKVM-X01.kicad_sch"
+			(at 165.1 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "openKVM-X01"
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 38.1)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 128 0 0 1)
+		)
+		(fill
+			(color 128 255 128 1)
+		)
+		(uuid "edae9be3-7290-4b1a-8d5d-4fe60750bce9")
+		(property "Sheetname" "POWER"
+			(at 38.1 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 38.1 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "openKVM-X01"
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "2")
+		)
+	)
+)

@@ -2107,7 +2107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45193bb5-6639-47e0-bf2e-035193e2002c")
-		(property "Reference" "R7"
+		(property "Reference" "R13"
 			(at 175.26 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2170,8 +2170,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "R7")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -2189,7 +2189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5abb02fa-9277-4993-9092-89d26ceefe8d")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 107.95 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -2248,8 +2248,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "#PWR026")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -2267,7 +2267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61265b0e-c302-4328-921a-160c3ba92fba")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR033"
 			(at 186.69 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -2326,8 +2326,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "#PWR025")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -2602,7 +2602,7 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
 					(reference "U3")
 					(unit 1)
 				)
@@ -2621,7 +2621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9419195b-2fc1-4c02-8864-948d904a89a1")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 107.95 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2680,8 +2680,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "#PWR027")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -2699,7 +2699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a356057e-b20a-4a93-9aaf-7276865da400")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR032"
 			(at 172.72 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -2758,8 +2758,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "#PWR024")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -2778,7 +2778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3e9697b-6fd8-4145-98f6-18c97da3b6d4")
-		(property "Reference" "R10"
+		(property "Reference" "R19"
 			(at 189.23 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2841,8 +2841,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "R10")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -2860,7 +2860,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0a4358e-c226-4d36-a548-39baecb0d961")
-		(property "Reference" "C15"
+		(property "Reference" "C18"
 			(at 111.76 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2923,8 +2923,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "C15")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -2942,7 +2942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d98cac21-b11d-48a1-9b0e-ff3610ce2fa6")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR029"
 			(at 119.38 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -3001,8 +3001,8 @@
 		)
 		(instances
 			(project "openKVM-X01"
-				(path "/e7c0374d-64bc-4089-b9c4-51fd59a7a9a1/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
-					(reference "#PWR015")
+				(path "/2ca004d4-d0d6-4c87-a313-b0e1d2005e00/93c519a5-1468-4f17-938e-a4b41050cbf5/cfd16a7f-110b-4ed7-bcc6-fad01c2502ae"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
